@@ -13,11 +13,11 @@ All data is stored and retrieved from a connected **database** through backend i
 
 ### 👥 List of All Users
 *(Add your second screenshot here)*  
-![User List](./screenshot2.png)
+![User List](./allusers.png)
 
 ### 🧠 Add Projects, Skills & Achievements
 *(Add your third screenshot here)*  
-![Add Details](./screenshot3.png)
+![Add Details](./addnew.png)
 
 ---
 
@@ -52,6 +52,7 @@ All data is stored and retrieved from a connected **database** through backend i
 git clone https://github.com/<your-username>/<your-repo-name>.git
 cd <your-repo-name>
 ﻿# PortfolioManager
+
 
 
 
