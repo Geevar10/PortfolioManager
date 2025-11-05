@@ -9,7 +9,7 @@ All data is stored and retrieved from a connected **database** through backend i
 ## 🖼️ Project Screenshots
 
 ### 🧾 Create New Profile Page
-![Create New Profile](./5ce74f15-3c42-4a6f-9280-f71bf40dd014.png)
+![Create New Profile](Screenshot 2025-11-06 002553.png)
 
 ### 👥 List of All Users
 *(Add your second screenshot here)*  
@@ -52,4 +52,5 @@ All data is stored and retrieved from a connected **database** through backend i
 git clone https://github.com/<your-username>/<your-repo-name>.git
 cd <your-repo-name>
 ﻿# PortfolioManager
+
 
